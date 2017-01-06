@@ -35,7 +35,7 @@ header{
   height: 800px;
   background:url('../img/full-background.png');
   background-size:cover;
-  
+
 
 }
 header h1{
@@ -43,7 +43,7 @@ header h1{
   padding: 50px 0;
   font-family: 'Lora',serif;
   font-size: 30px;
-  color: #bbc085;
+  color: #8A2BE2;
 
 }
 nav{
